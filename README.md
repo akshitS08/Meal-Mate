@@ -16,22 +16,3 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 
-## 📱 Screenshots
-
-#HomeSCreen
-![Home Screen](assets\screenshots\homepage.png)
-
-#Drawer
-![Drawer](assets\screenshots\drawer.pn)
-
-#FilterPage
-![Filter Page](assets\screenshots\filterpage.png)
-
-#FavouritePage
-![Favourite Page](assets\screenshots\favouritepage.png)
-
-#Meal
-![MEal](assets\screenshots\meal.png)
-
-#MealDetail
-![MEal Detail](assets\screenshots\mealdetail.png)
