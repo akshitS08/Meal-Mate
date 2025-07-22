@@ -18,7 +18,7 @@ samples, guidance on mobile development, and a full API reference.
 
 ## 📱 Screenshots
 
-# HomeScreen
+#HomeSCreen
 ![Home Screen](E:\StudioProjects\meal_mate\assets\screenshots\homepage.png)
 
 #Drawer
