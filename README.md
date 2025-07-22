@@ -19,19 +19,19 @@ samples, guidance on mobile development, and a full API reference.
 ## 📱 Screenshots
 
 #HomeSCreen
-![Home Screen](E:\StudioProjects\meal_mate\assets\screenshots\homepage.png)
+![Home Screen](assets\screenshots\homepage.png)
 
 #Drawer
-![Drawer](E:\StudioProjects\meal_mate\assets\screenshots\drawer.pn)
+![Drawer](assets\screenshots\drawer.pn)
 
 #FilterPage
-![Filter Page](E:\StudioProjects\meal_mate\assets\screenshots\filterpage.png)
+![Filter Page](assets\screenshots\filterpage.png)
 
 #FavouritePage
-![Favourite Page](E:\StudioProjects\meal_mate\assets\screenshots\favouritepage.png)
+![Favourite Page](assets\screenshots\favouritepage.png)
 
 #Meal
-![MEal](E:\StudioProjects\meal_mate\assets\screenshots\meal.png)
+![MEal](assets\screenshots\meal.png)
 
 #MealDetail
-![MEal Detail](E:\StudioProjects\meal_mate\assets\screenshots\mealdetail.png)
+![MEal Detail](assets\screenshots\mealdetail.png)
